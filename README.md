@@ -1,16 +1,77 @@
-### Hi there 👋
+### 🛠️ Projects
 
-<!--
-**penguineer/penguineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+<summary>Work In Progress</summary>
 
-Here are some ideas to get you started:
+> These are the projects I am currently working on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* [Eurorack Power Breakout](https://github.com/moPsy-project/eurorack-power-breakout)
+* [Manual Gate/Trigger Source](https://github.com/moPsy-project/manual-gate-trigger-source)
+* [moPsy PSU](https://github.com/moPsy-project/moPsy-PSU)
+
+</details>
+
+
+<details>
+<summary>Noteworthy Repositories</summary>
+
+#### Public Appearances
+
+* [blog.tuxathome.de](https://github.com/penguineer/blog.tuxathome.de)
+* [Comment to GitHub](https://github.com/penguineer/comment2gh)
+* [cv.penguineering.com](https://github.com/penguineer/cv.penguineering.com)
+
+#### GTD and Information handling
+
+* [Desktop Panel](https://github.com/penguineer/DesktopPanel)
+* [Actionables Web](https://github.com/penguineer/ActionablesWeb)
+
+#### Data Integration
+
+* [cleanURI](https://github.com/penguineer/cleanURI)
+* [Rabbarkable](https://github.com/penguineer/Rabbarkable)
+* [Redmine Actionables](https://github.com/penguineer/RedmineActionablesCollector)
+* [Calendar Mixer (CalMixer)](https://github.com/penguineer/CalMixer)
+
+#### Synthesizer and Music
+
+> Check out the [moPsy project](https://github.com/moPsy-project) for more!
+
+* [moPsy KiCad resources](https://github.com/moPsy-project/moPsy-KiCad-resources)
+* [Eurorack Power Breakout](https://github.com/moPsy-project/eurorack-power-breakout)
+* [Manual Gate/Trigger Source](https://github.com/moPsy-project/manual-gate-trigger-source)
+* [moPsy PSU](https://github.com/moPsy-project/moPsy-PSU)
+
+#### IoT and Smart Home Integration
+
+* [SmartBedroomPanel](https://github.com/penguineer/SmartBedroomPanel)
+* [docker-kivy-rpi-headless](https://github.com/penguineer/docker-kivy-rpi-headless)
+* [PingBoard](https://github.com/penguineer/PingBoard)
+* [PingBoard Daemon](https://github.com/penguineer/PingBoardDaemon)
+
+</details>
+
+<details>
+<summary>Contributing</summary>
+
+* [Freifunk Magdeburg](https://github.com/FreifunkMD)
+* [Netz39 e.V.](https://github.com/netz39)
+* [Tech-Events in und um Magdeburg](https://github.com/penguineer/tech-events-magdeburg)
+
+</details>
+
+### :money_with_wings: Sponsorship
+
+If you like my work, please consider sponsoring:
+
+<!-- How does this work nicely?
+<img src="https://avatars.githubusercontent.com/u/2039739?s=64&v=4" width="24" style="border-radius: 50% !important; vertical-align: middle;"/>
+<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" width="24" />
+<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width="24" />
 -->
+
+* [github/penguineer](https://github.com/sponsors/penguineer)
+* [ko-fi.com/penguineer](https://ko-fi.com/penguineer)
+* [patreon.com/penguineer](https://www.patreon.com/penguineer)
+
+I will consider sponsorship as an income and pledge to spend a matching amount of time working on FLOSS and music projects!
