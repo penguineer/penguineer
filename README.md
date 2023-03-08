@@ -1,4 +1,4 @@
-### Projects
+### 🛠️ Projects
 
 <details open>
 <summary>Work In Progress</summary>
@@ -60,7 +60,7 @@
 
 </details>
 
-### Sponsorship
+### :money_with_wings: Sponsorship
 
 If you like my work, please consider sponsoring:
 
