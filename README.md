@@ -10,7 +10,9 @@
 
 
 <details>
-<summary>Noteworthy Repositories</summary>
+<summary>Main Repositories</summary>
+
+> My main projects and repositories that may be worth seeing.
 
 #### Public Appearances
 
