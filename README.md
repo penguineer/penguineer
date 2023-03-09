@@ -20,7 +20,7 @@
 * [Comment to GitHub](https://github.com/penguineer/comment2gh)
 * [cv.penguineering.com](https://github.com/penguineer/cv.penguineering.com)
 
-#### GTD and Information handling
+#### GTD and Information Handling
 
 * [Desktop Panel](https://github.com/penguineer/DesktopPanel)
 * [Actionables Web](https://github.com/penguineer/ActionablesWeb)
