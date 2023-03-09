@@ -3,17 +3,16 @@
 <details open>
 <summary>Work In Progress</summary>
 
-> These are the projects I am currently working on.
-
-* [Eurorack Power Breakout](https://github.com/moPsy-project/eurorack-power-breakout)
-* [Manual Gate/Trigger Source](https://github.com/moPsy-project/manual-gate-trigger-source)
-* [moPsy PSU](https://github.com/moPsy-project/moPsy-PSU)
+> Projects that are currently working on are pinned on my profile page.
+> Please check there to see what is going on. :)
 
 </details>
 
 
 <details>
-<summary>Noteworthy Repositories</summary>
+<summary>Main Repositories</summary>
+
+> My main projects and repositories that may be worth seeing.
 
 #### Public Appearances
 
@@ -21,7 +20,7 @@
 * [Comment to GitHub](https://github.com/penguineer/comment2gh)
 * [cv.penguineering.com](https://github.com/penguineer/cv.penguineering.com)
 
-#### GTD and Information handling
+#### GTD and Information Handling
 
 * [Desktop Panel](https://github.com/penguineer/DesktopPanel)
 * [Actionables Web](https://github.com/penguineer/ActionablesWeb)
