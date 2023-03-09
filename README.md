@@ -3,11 +3,8 @@
 <details open>
 <summary>Work In Progress</summary>
 
-> These are the projects I am currently working on.
-
-* [Eurorack Power Breakout](https://github.com/moPsy-project/eurorack-power-breakout)
-* [Manual Gate/Trigger Source](https://github.com/moPsy-project/manual-gate-trigger-source)
-* [moPsy PSU](https://github.com/moPsy-project/moPsy-PSU)
+> Projects that are currently working on are pinned on my profile page.
+> Please check there to see what is going on. :)
 
 </details>
 
