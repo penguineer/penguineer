@@ -3,7 +3,7 @@
 <details open>
 <summary>Work In Progress</summary>
 
-> Projects that are currently working on are pinned on my profile page.
+> Projects that are currently Work In Progress are pinned on my profile page.
 > Please check there to see what is going on. :)
 
 </details>
