@@ -14,11 +14,9 @@
 
 > My main projects and repositories that may be worth seeing.
 
-#### Public Appearances
+#### Blogs and Websites
 
-* [blog.tuxathome.de](https://github.com/penguineer/blog.tuxathome.de)
 * [Comment to GitHub](https://github.com/penguineer/comment2gh)
-* [cv.penguineering.com](https://github.com/penguineer/cv.penguineering.com)
 
 #### GTD and Information Handling
 
