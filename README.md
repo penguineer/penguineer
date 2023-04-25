@@ -29,7 +29,7 @@
 
 * [cleanURI](https://github.com/penguineer/cleanURI)
 * [Rabbarkable](https://github.com/penguineer/Rabbarkable)
-* [Redmine Actionables](https://github.com/penguineer/RedmineActionablesCollector)
+* [Redmine Actionables Collector](https://github.com/penguineer/RedmineActionablesCollector)
 * [Calendar Mixer (CalMixer)](https://github.com/penguineer/CalMixer)
 
 #### Synthesizer and Music
