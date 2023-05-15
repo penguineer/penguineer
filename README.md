@@ -38,6 +38,7 @@
 * [moPsy KiCad resources](https://github.com/moPsy-project/moPsy-KiCad-resources)
 * [Eurorack Power Breakout](https://github.com/moPsy-project/eurorack-power-breakout)
 * [Manual Gate/Trigger Source](https://github.com/moPsy-project/manual-gate-trigger-source)
+* [DIV](https://github.com/moPsy-project/div)
 * [moPsy PSU](https://github.com/moPsy-project/moPsy-PSU)
 
 #### IoT and Smart Home Integration
