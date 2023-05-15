@@ -17,6 +17,7 @@
 #### Blogs and Websites
 
 * [Comment to GitHub](https://github.com/penguineer/comment2gh)
+* [Example for a GitHub-hosted Blog](https://github.com/penguineer/gh-blog)
 
 #### GTD and Information Handling
 
