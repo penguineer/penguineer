@@ -33,7 +33,7 @@
 
 #### Synthesizer and Music
 
-> Check out the [moPsy project](https://github.com/moPsy-project) for more!
+> Check out the [moPsy project](https://github.com/moPsy-project) for more projects or have a look at my [Etsy shop](https://mopsymusic.etsy.com)!
 
 * [moPsy KiCad resources](https://github.com/moPsy-project/moPsy-KiCad-resources)
 * [Eurorack Power Breakout](https://github.com/moPsy-project/eurorack-power-breakout)
