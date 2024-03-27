@@ -26,7 +26,6 @@
 
 #### Data Integration
 
-* [MOSS](https://github.com/penguineer/moss)
 * [cleanURI](https://github.com/penguineer/cleanURI)
 * [Rabbarkable](https://github.com/penguineer/Rabbarkable)
 * [Redmine Actionables Collector](https://github.com/penguineer/RedmineActionablesCollector)
