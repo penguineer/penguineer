@@ -74,3 +74,6 @@ If you like my work, please consider sponsoring:
 * [patreon.com/penguineer](https://www.patreon.com/penguineer)
 
 I will consider sponsorship as an income and pledge to spend a matching amount of time working on FLOSS and music projects!
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
