@@ -76,4 +76,13 @@ If you like my work, please consider sponsoring:
 I will consider sponsorship as an income and pledge to spend a matching amount of time working on FLOSS and music projects!
 
 <!--START_SECTION:waka-->
+
+```txt
+CSS                                      1 hr 27 mins    ███████████░░░░░░░░░░░░░░   44.05 %
+TypeScript                               52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Java                                     18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Bash                                     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Markdown                                 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+```
+
 <!--END_SECTION:waka-->
