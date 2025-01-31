@@ -75,6 +75,10 @@ If you like my work, please consider sponsoring:
 
 I will consider sponsorship as an income and pledge to spend a matching amount of time working on FLOSS and music projects!
 
+### Time spent developing (experimental)
+
+I am still ironing out the kinks of this fun statistics, so please take it with a grain of salt for now.
+
 <!--START_SECTION:waka-->
 
 ```txt
