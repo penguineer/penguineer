@@ -82,11 +82,11 @@ I am still ironing out the kinks of this fun statistics, so please take it with 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                               3 hrs 23 mins   ███████████░░░░░░░░░░░░░░   43.78 %
-Java                                     1 hr 50 mins    ██████░░░░░░░░░░░░░░░░░░░   23.79 %
-CSS                                      1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
-HTML                                     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Markdown                                 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TypeScript                               3 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   43.16 %
+Java                                     1 hr 54 mins    ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+CSS                                      1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
+HTML                                     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown                                 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
