@@ -30,6 +30,7 @@
 * [Rabbarkable](https://github.com/penguineer/Rabbarkable)
 * [Redmine Actionables Collector](https://github.com/penguineer/RedmineActionablesCollector)
 * [Calendar Mixer (CalMixer)](https://github.com/penguineer/CalMixer)
+* [SyncTexNG RabbitMQ Server](https://github.com/penguineer/synctexng-rmq-server)
 
 #### Synthesizer and Music
 
