@@ -27,10 +27,11 @@
 #### Data Integration
 
 * [cleanURI](https://github.com/penguineer/cleanURI)
-* [Rabbarkable](https://github.com/penguineer/Rabbarkable)
-* [Redmine Actionables Collector](https://github.com/penguineer/RedmineActionablesCollector)
-* [Calendar Mixer (CalMixer)](https://github.com/penguineer/CalMixer)
+* [HareAIris](https://github.com/penguineer/HareAIris)
 * [SyncTexNG RabbitMQ Server](https://github.com/penguineer/synctexng-rmq-server)
+* [Redmine Actionables Collector](https://github.com/penguineer/RedmineActionablesCollector)
+* [Rabbarkable](https://github.com/penguineer/Rabbarkable)
+* [Calendar Mixer (CalMixer)](https://github.com/penguineer/CalMixer)
 
 #### Synthesizer and Music
 
