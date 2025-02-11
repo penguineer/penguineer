@@ -77,9 +77,9 @@ If you like my work, please consider sponsoring:
 
 I will consider sponsorship as an income and pledge to spend a matching amount of time working on FLOSS and music projects!
 
-### Time spent developing (past 7 days)
+### Time spent developing (past 7-ish days)
 
-I track some of my IDE usage with [WakaTime](https://wakatime.com). Please note that, while this provides a useful overview, it’s not a precise reflection of how I spend my time.
+I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear in mind:, this is a nice overview, not a precise reflection of how I spend my time.
 
 <!--START_SECTION:waka-->
 
