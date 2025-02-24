@@ -29,6 +29,7 @@
 * [cleanURI](https://github.com/penguineer/cleanURI)
 * [HareAIris](https://github.com/penguineer/HareAIris)
 * [SyncTexNG RabbitMQ Server](https://github.com/penguineer/synctexng-rmq-server)
+* [FlareSolverr RabbitMQ Bridge](https://github.com/penguineer/flaresolverr-rabbitmq-bridge-service)
 * [Redmine Actionables Collector](https://github.com/penguineer/RedmineActionablesCollector)
 * [Rabbarkable](https://github.com/penguineer/Rabbarkable)
 * [Calendar Mixer (CalMixer)](https://github.com/penguineer/CalMixer)
