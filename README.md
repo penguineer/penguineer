@@ -50,13 +50,14 @@
 * [docker-kivy-rpi-headless](https://github.com/penguineer/docker-kivy-rpi-headless)
 * [PingBoard](https://github.com/penguineer/PingBoard)
 * [PingBoard Daemon](https://github.com/penguineer/PingBoardDaemon)
+* [ShellyDataGateway](https://github.com/penguineer/ShellyDataGateway)
+* [SensorsReport](https://github.com/penguineer/SensorsReport)
 
 </details>
 
 <details>
 <summary>Contributing</summary>
 
-* [Freifunk Magdeburg](https://github.com/FreifunkMD)
 * [Netz39 e.V.](https://github.com/netz39)
 * [Tech-Events in und um Magdeburg](https://github.com/penguineer/tech-events-magdeburg)
 
