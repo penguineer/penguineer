@@ -86,8 +86,8 @@ I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear 
 <!--START_SECTION:waka-->
 
 ```txt
-Python      1 hr 13 mins    ████████████████████████▓   98.23 %
-Markdown    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Python      1 hr 13 mins    ████████████████████████▒   97.83 %
+Markdown    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 .env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
