@@ -86,8 +86,11 @@ I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       0 secs          ████████████████░░░░░░░░░   63.89 %
-textmate   0 secs          █████████░░░░░░░░░░░░░░░░   36.11 %
+C/C++      10 mins         ███████████▒░░░░░░░░░░░░░   45.19 %
+Markdown   7 mins          ████████▓░░░░░░░░░░░░░░░░   34.01 %
+C          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+YAML       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+HTML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
