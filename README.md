@@ -86,7 +86,11 @@ I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON                                     0 secs          █████████████████▒░░░░░░░   69.48 %
+YAML                                     0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+Service unit configuration for systemd   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Timer unit configuration for systemd     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+INI                                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
