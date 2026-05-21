@@ -86,7 +86,10 @@ I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON               0 secs                ██████████████▒░░░░░░░░░░   57.74 %
+Markdown           0 secs                █████████▓░░░░░░░░░░░░░░░   38.64 %
+Text               0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Requirements.txt   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
