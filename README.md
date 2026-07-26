@@ -86,11 +86,11 @@ I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         1 hr 28 mins          ████████▓░░░░░░░░░░░░░░░░   35.01 %
-YAML             54 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-JSON             41 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Env File         29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-TypeScript       12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown         1 hr 43 mins          █████████░░░░░░░░░░░░░░░░   36.39 %
+YAML             1 hr 8 mins           ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+JSON             41 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Env File         31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+TypeScript       12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
