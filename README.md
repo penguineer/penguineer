@@ -86,11 +86,11 @@ I track some of my IDE usage with [WakaTime](https://wakatime.com). Please bear 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                                 1 hr 10 mins          █████████████▓░░░░░░░░░░░   54.31 %
-SQL                                      26 mins               █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-Jinja2                                   14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-YAML                                     5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Bash                                     5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Markdown                                 44 mins               ████████████████░░░░░░░░░   64.43 %
+Jinja2                                   14 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+YAML                                     4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Text                                     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Bash                                     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
